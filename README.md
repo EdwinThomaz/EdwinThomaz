@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwinThomaz
-- Holopin Badges https://holopin.me/edwinthomaz)](https://holopin.io/@edwinthomaz
+- [![An image of @edwinthomaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edwinthomaz)](https://holopin.io/@edwinthomaz)
 
 <!---
 EdwinThomaz/EdwinThomaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
